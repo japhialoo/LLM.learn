@@ -25,3 +25,9 @@ pip install -r requirements.txt
 
 4. Downloading the LLMs
     - To download the LLMs, run `modelDownload.py` to download the model .gguf files in this directory. 
+
+## Cloning the Repository
+Use the code below to clone the GitHub repository
+```sh
+git clone https://github.com/japhialoo/LLMs.git
+```
